@@ -1,3 +1,7 @@
 ﻿D:=20170624, 20170000, 20200000;
-A1:=REPDATE(&GDZS,1,0); //本次股东总数的日期aa dev ssss
+<<<<<<< HEAD
+A1:=REPDATE(&GDZS,1,0); //本次股东总数的日期aa dev ssss + web change
+=======
+A1:=REPDATE(&GDZS,1,0); //本次股东总数的日期aa dev ssss + web change
+>>>>>>> 8ffb62940ec5808e607f6321057571873b18c865
 选股:A1>D
